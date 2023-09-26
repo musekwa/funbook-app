@@ -1,13 +1,8 @@
 # Funbook app (React Native)
-This is an example app built for the Simplifying State Management Strategies in React Native.
+This is an example app built for illustring the use of Context and Hooks as a State Management Strategy in React Native.
 
-## Simplifying State Management in React Native
 
-I developed this app as an exercise for State Management Strategies in React Native.
-
-**From Hooks and Context to Redux, MobX, XState, Jotai and React Query**
-
-## What is this book about?
+**Hooks and Context**
 
 ### Software and Hardware List
 
